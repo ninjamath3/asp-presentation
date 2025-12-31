@@ -45,7 +45,7 @@ Get real-time data.
 Engaging in real-time combat.
 
 ![Terminal](screenshots/terminal.PNG)  
-![ASP interface](ASP-interface.PNG)  
+![ASP interface](screenshots/ASP-interface.PNG)  
 Managing the base and defenses.
 
 > Screenshots and GIFs demonstrate the gameplay. No source code is included in this public repository.
