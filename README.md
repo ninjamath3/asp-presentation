@@ -35,18 +35,7 @@ The game is developed with:
 
 ## Screenshots
 
-Below are selected screenshots illustrating gameplay:
-
-![Weather-station](screenshots/weather-station.PNG)  
-![Compass](screenshots/compass.PNG)  
-Get real-time data.
-
-![Combat Screen](screenshots/fight-simulation.PNG)  
-Engaging in real-time combat.
-
-![Terminal](screenshots/terminal.PNG)  
-![ASP interface](screenshots/ASP-interface.PNG)  
-Managing the base and defenses.
+Below are selected screenshots illustrating gameplay:[screenshots](screenshots)  
 
 > Screenshots and GIFs demonstrate the gameplay. No source code is included in this public repository.
 
