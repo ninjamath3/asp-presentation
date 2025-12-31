@@ -37,7 +37,7 @@ The game is developed with:
 
 Below are selected screenshots illustrating gameplay:
 
-![Weather-station](screenshots/weather-station.png)  
+![Weather-station](screenshots/wheater-station.png)  
 ![Compass](screenshots/compass.PNG)  
 Get real-time data.
 
