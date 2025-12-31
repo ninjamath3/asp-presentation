@@ -37,13 +37,15 @@ The game is developed with:
 
 Below are selected screenshots illustrating gameplay:
 
-![Scan Interface](screenshots/scan_interface.png)  
-Scanning for aliens in the sector.
+![Weather station](screenshots/wheater-station.PNG)  
+![Compass](screenshots/compass.PNG)  
+Get real-time data.
 
-![Combat Screen](screenshots/combat_screen.gif)  
+![Combat Screen](screenshots/fight-simulation.PNG)  
 Engaging in real-time combat.
 
-![Base Console](screenshots/base_console.png)  
+![Terminal](screenshots/terminal.PNG)  
+![ASP interface](ASP-interface.PNG)  
 Managing the base and defenses.
 
 > Screenshots and GIFs demonstrate the gameplay. No source code is included in this public repository.
@@ -53,8 +55,9 @@ Managing the base and defenses.
 ## How to Follow the Project
 
 - View screenshots and GIFs included in this repository.  
-- Watch gameplay videos or trailers when available.  
-- Updates and the full source code are maintained in the private repository.
+- Watch gameplay videos or trailers when available.
+- Stay connected, this repo wil be frequently updated   
+- Updates and source codes are maintained in the private repository.
 
 ---
 
@@ -65,10 +68,11 @@ Planned future features include:
 - Multiplayer mode  
 - 3D base and combat view  
 - Daily or weekly challenges for players  
-- Enhanced AR interactions with environmental objects
+- Enhanced AR interactions with different landscapes
 - Sound design
 
 ---
 
 ## Repository Structure (Public Version)
 
+Repository linked to [ASPbases-python repository](https://github.com/ninjamath3/ASPbases-python)
